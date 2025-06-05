@@ -1,10 +1,10 @@
 # JKFLIPFLOP-USING-IF-ELSE
-
-**AIM:** 
+# Implementation of JK flipflop using Verilog HDL
+**AIM** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:**
+**SOFTWARE REQUIRED**
 
 Quartus prime
 
